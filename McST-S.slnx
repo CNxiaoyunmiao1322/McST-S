@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="McST-S.Client/McST-S.Client.csproj" />
+  <Project Path="McST-S.Server/McST-S.Server.csproj" Id="9729d9f9-1746-4dd4-a377-1f4ba282c4a9" />
+  <Project Path="McST-S.Shared/McST-S.Shared.csproj" Id="5ff5babb-0746-43c7-8520-b8fb05a90fd9" />
+</Solution>
